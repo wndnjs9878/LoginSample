@@ -5,7 +5,7 @@
 <img width="330" alt="스크린샷 2021-01-10 오전 11 41 13" src="https://user-images.githubusercontent.com/48276633/104113023-e6c6e300-5338-11eb-8c90-ce13f4c1f051.png">
 
 > ## After Login
-<img width="330" alt="스크린샷 2021-01-10 오전 11 41 25" src="https://user-images.githubusercontent.com/48276633/104113024-e890a680-5338-11eb-839e-2dd3b9ae7773.png">
+<img width="330" alt="스크린샷 2021-01-10 오전 11 48 37" src="https://user-images.githubusercontent.com/48276633/104113108-c77c8580-5339-11eb-8b93-fa2f056564d0.png">
 
 > ## ForgotUsername or ForgotPassword
-<img width="330" alt="스크린샷 2021-01-10 오전 11 41 30" src="https://user-images.githubusercontent.com/48276633/104113026-e9c1d380-5338-11eb-8691-385af081c46f.png"><img width="330" alt="스크린샷 2021-01-10 오전 11 41 34" src="https://user-images.githubusercontent.com/48276633/104113029-eaf30080-5338-11eb-886e-6e5614cf205d.png">
+<img width="330" alt="스크린샷 2021-01-10 오전 11 48 44" src="https://user-images.githubusercontent.com/48276633/104113113-cba8a300-5339-11eb-92a5-8fdcf719cea0.png"><img width="330" alt="스크린샷 2021-01-10 오전 11 48 51" src="https://user-images.githubusercontent.com/48276633/104113115-cfd4c080-5339-11eb-90e9-488bdf6225c8.png">
